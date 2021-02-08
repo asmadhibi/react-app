@@ -87,7 +87,7 @@ class App extends Component {
         <h1  onClick={this.hello_world.bind(this,'dnisxdeh')}>Hello,{input}   age{age}</h1>
 
         <label>
-          Name:
+          Nameee:
           <input type="text" value={input} onChange={this.handleChange.bind(this)  } />
         </label>
 
